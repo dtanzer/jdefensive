@@ -1,2 +1,1 @@
-# jdefensive
-Defensive Programming Utilities for Java
+# jdefensive - Defensive Programming Utilities for Java
